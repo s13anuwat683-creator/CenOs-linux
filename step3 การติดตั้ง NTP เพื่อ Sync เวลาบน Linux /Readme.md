@@ -3,15 +3,15 @@
 #### เปิด โปรแแกรม Terminal (เพื่อใช้งาน คำสั่งแบบ command)
 
 #### 1\. ให้พิมพ์ คำสั่ง 
-#yum -y install ntp
+*#yum -y install ntp*   ⏪⏪⏪ ติดตั้ง  ntp
 
-#timedatectl set-timezone Asia/Bangkok# timedatectl
+*#timedatectl set-timezone Asia/Bangkok# timedatectl*
 
-#service ntpd restart 
+*#service ntpd restart*
 
-#systemctl enable ntpd.service
+*#systemctl enable ntpd.service*
 
 #### 2\.🏴สามารถตรวจสอบว่า เวลาถูกต้องหรือไม่ โดยใช้คำสั่ง 
-#date           <=== ตรวจสอบว่าเวลาถูกต้องหรือไม่
+*#date*       ⏪⏪⏪ ตรวจสอบว่าเวลาถูกต้องหรือไม่
 
 ------------
