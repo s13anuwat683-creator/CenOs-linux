@@ -16,7 +16,7 @@ SELINUX=disabled   <=== แก้ไข SELINUX=enforcing เป็น ***SELINU
 
 #### 3\. หลังจากแก้ไขไฟล์เรียบร้อยแล้วให้รีสตาร์ทเครื่อง
 
-*#init6
+*#init6*
 
 
 #### 4 \. ตรวจสอบการทำงานของ SELINUX 
