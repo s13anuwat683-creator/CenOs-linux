@@ -1,5 +1,9 @@
 # แหล่งข้อมูล
-[centos-7-x86_64-dvd-2009.iso](https://mirror.psu.ac.th/centos/7.9.2009/isos/x86_64/ "centos-7-x86_64-dvd-2009.iso")
+
+[centos-7-x86_64-dvd-2009.iso](https://mirror.psu.ac.th/centos/7.9.2009/isos/x86_64/ "centos-7-x86_64-dvd-2009.iso") *<<click*
+
+[Deployment, Configuration and Administration of Red Hat Enterprise Linux 6](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/deployment_guide/index "Deployment, Configuration and Administration of Red Hat Enterprise Linux 6") *<<click*
+
 ---
 
  # คำสั่ง Reboot บน Linux
