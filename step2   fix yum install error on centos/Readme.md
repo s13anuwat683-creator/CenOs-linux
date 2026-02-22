@@ -18,4 +18,21 @@
 
       # ping 8.8.8.8 <--- ทดสอบการเชื่อมต่อ internet , ออกจาก ping ctl-z
 
+#### 5\. Update CentOS7
+   #yum update <== CentOS7 หยุดการสนับสนุน online ต้องแก้ไข  
 
+   #cd /  <== dir root
+   #ls    <== check 
+   
+#### 6\. แก้ไข 
+
+   #cd /etc/yum.repos.d  <== dir yum.repos.d
+
+   #rm \*  <== delete all file ทั้งหมดใน Directory /yum.repos.d
+
+   #vi CentOS-Base.repo   <== ใช้ โปรแกรท vi หรือ โปรแกรม nanoเขียน sqript ใหม่
+   ##### หรือ 
+   #nano CentOS-Base.repo   <== หรือ โปรแกรม nanoเขียน sqript ใหม่
+
+#### 7\. นำไฟล์ มาแก้ไข ในไฟล์  CentOS-Base.repo
+  
