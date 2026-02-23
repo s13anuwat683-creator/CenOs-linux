@@ -44,3 +44,8 @@ HTTP เซิร์ฟเวอร์โปรโตคอลการถ่า
 **httpd (pid 19014) is running...** ⏪⏪⏪ เปิด บริการ httpd
 
 
+-----
+### คำสั่ง ดูหมายเลข ip address
+
+*# ip addr show 
+
