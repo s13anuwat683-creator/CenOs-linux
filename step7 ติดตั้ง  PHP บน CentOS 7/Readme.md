@@ -95,4 +95,8 @@
 *< /IfModule>*
 
 
+#### ทำการ start service  httpd 
 
+ใช้คำสั่ง ทำการ start service httpd
+
+*#systemctl restart httpd*  ⏪⏪⏪  
