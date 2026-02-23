@@ -51,7 +51,9 @@
 -----
 ### ขั้นตอนที่ 2 เขียน Script HTML //  user
 
-*สร้าง / เขียน Script HTML ของ user /home/<user>/public_html*
+*สร้าง / เขียน Script HTML ของ user*
+
+*/home/<user>/public_html*
 
 *ขั้นตอนที่ 1 สร้าง Directory ชื่อ public_html    , ใน  Directory ของ user* 
 
@@ -62,3 +64,13 @@
 หรือ 
 
 *# nano /public_html/index.html*
+
+
+
+
+
+
+
+
+
+
