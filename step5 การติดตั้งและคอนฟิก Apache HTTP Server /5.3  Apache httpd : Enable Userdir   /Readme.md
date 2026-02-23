@@ -47,3 +47,6 @@
 #### ใช้คำสั่ง systemctl start เพื่อรันเซอร์วิส
 
 *# systemctl restart httpd* 
+
+-----
+### ขั้นตอนที่ 2 เขียน Script HTML //  user
