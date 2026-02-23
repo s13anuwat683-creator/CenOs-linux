@@ -4,6 +4,8 @@
 
 [Deployment, Configuration and Administration of Red Hat Enterprise Linux 6](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/deployment_guide/index "Deployment, Configuration and Administration of Red Hat Enterprise Linux 6") *<<click*
 
+[cenos7](https://www.server-world.info/en/note?os=CentOS_7&p=httpd&f=5 "cenos7") <<< Click
+
 ---
 
  # คำสั่ง Reboot บน Linux
