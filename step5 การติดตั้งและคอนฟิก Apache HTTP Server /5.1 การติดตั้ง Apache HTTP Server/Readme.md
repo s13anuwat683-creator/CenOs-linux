@@ -47,5 +47,5 @@ HTTP เซิร์ฟเวอร์โปรโตคอลการถ่า
 -----
 ### คำสั่ง ดูหมายเลข ip address
 
-*# ip addr show 
+*# ip addr show*
 
