@@ -12,3 +12,20 @@
 *#userdel < user >*	 : ลบผู้ใช้รายเดิม ออกจากระบบ
 
 -----
+### ขั้นตอนที่ 1 Configure httpd
+
+📚ใช้คำสั่ง เพื่อแก้ไข ไฟล์ script  userdir.conf  // แก้ไขครั้งเดียว
+
+*# vi /etc/httpd/conf.d/userdir.conf*   หรือ 
+
+*# nano /etc/httpd/conf.d/userdir.conf*   
+
+`$# line 17: comment out*
+
+*#UserDir disabled*
+
+*# line 24: uncomment*
+
+*UserDir public_html*
+
+*# line 31 - 35*
