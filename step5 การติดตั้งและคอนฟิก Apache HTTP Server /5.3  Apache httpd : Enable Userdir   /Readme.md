@@ -41,3 +41,9 @@
 *Require method GET POST OPTIONS*
 
 < /Directory >
+
+====
+
+#### ใช้คำสั่ง systemctl start เพื่อรันเซอร์วิส
+
+*# systemctl restart httpd* 
