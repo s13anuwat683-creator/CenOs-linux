@@ -71,3 +71,28 @@
 ------------
 #### ขั้นตอนที่ 4 กำหนดให้หน้าแรก สามารถเรียกใช้ index.php
 
+ให้ แก้ script ที่ไฟล์ httpd.conf  
+
+ใช้คำสั่ง   
+*#cd  /etc/httpd/conf/*
+
+*#nano httpd.conf*  		⏪⏪⏪  ***แก้ไข ชื่อไฟล์ httpd.conf*** 
+
+*< /Directory>*
+
+*#*
+
+*# DirectoryIndex: sets the file that Apache will serve if a directory*
+
+*# is requested.*
+
+*#*
+
+*< IfModule dir_module>*
+
+*DirectoryIndex index.html  index.php*  ⏪⏪⏪ ***พิมพ์เพิ่ม*** 
+
+*< /IfModule>*
+
+
+
