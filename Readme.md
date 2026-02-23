@@ -55,8 +55,10 @@ ntsysv เป็นโปรแกรมที่ช่วยให้เรา�
 
 [![ntsysv](https://access.redhat.com/webassets/avalon/d/Red_Hat_Enterprise_Linux-6-Deployment_Guide-en-US/images/fae44841ba01c8c7b2af15735b3495bb/controlling-access-to-services-ntsysv.png "ntsysv")](https://access.redhat.com/webassets/avalon/d/Red_Hat_Enterprise_Linux-6-Deployment_Guide-en-US/images/fae44841ba01c8c7b2af15735b3495bb/controlling-access-to-services-ntsysv.png "ntsysv")
 
+---
+# คำสั่ง ดูหมายเลข ip address
 
-
+*# ip addr show*
 
 
 
