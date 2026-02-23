@@ -50,3 +50,15 @@
 
 -----
 ### ขั้นตอนที่ 2 เขียน Script HTML //  user
+
+*สร้าง / เขียน Script HTML ของ user /home/<user>/public_html*
+
+*ขั้นตอนที่ 1 สร้าง Directory ชื่อ public_html    , ใน  Directory ของ user* 
+
+*ขั้นตอนที่ 2  เขียน Script HTML* 
+
+*#vi /public_html/index.html*
+
+หรือ 
+
+*# nano /public_html/index.html*
