@@ -56,5 +56,5 @@
 
 - ทดสอบ การแสดงผล Web  ผ่าน  Browser   URL http:// (IP address server ) <==บนเครื่อง Server
 
--  ทดสอบ การแสดงผล Web  ผ่าน  Browser   URL http:// (IP address server ) <==บนเครื่อง Client   *ถ้าไม่แสดงผล บนเครื่อง Client ให้ปิดการทำงานของ Firewall บน CentOS  ดูวิธีการที่นี้* 
+-  ทดสอบ การแสดงผล Web  ผ่าน  Browser   URL http:// (IP address server ) <==บนเครื่อง Client   *ถ้าไม่แสดงผล บนเครื่อง Client ให้ปิดการทำงานของ Firewall บน CentOS  [ดูวิธีการที่นี้](https://github.com/s13anuwat683-creator/CenOs-linux/tree/83d237c3ac9e32fba00a519e5215f1fd01336003/step4%20%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%20CentOS%20%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B9%87%E0%B8%88 "ดูวิธีการที่นี้")
 
