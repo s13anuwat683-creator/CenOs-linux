@@ -20,7 +20,9 @@
 
 *# nano /etc/httpd/conf.d/userdir.conf*   
 
-`$# line 17: comment out*
+#### แก้ไข userdir.conf ####
+
+*# line 17: comment out*
 
 *#UserDir disabled*
 
@@ -29,3 +31,13 @@
 *UserDir public_html*
 
 *# line 31 - 35*
+
+< Directory "/home/*/public_html">
+  
+*AllowOverride All     # change*
+
+*Options None     # change*
+
+*Require method GET POST OPTIONS*
+
+< /Directory >
